@@ -2,7 +2,7 @@
  * Using Jersy framework , we can parse the JSOn file to retrieve the necessary 
  * data from the JSON file
  * 
- * @author venkata subba rao cheedella, Cletan Sequeira
+ * @author rappala
  * 
  * 
  */

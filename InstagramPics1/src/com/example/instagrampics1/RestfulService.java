@@ -1,7 +1,7 @@
 /**
  * 	implementation of RestfulService consumption. Save, the response in JSON
  * 
- * @author venkata subba rao cheedella, Cletan Sequeira
+ * @author rappala
  * 
  * 
  */
@@ -18,8 +18,8 @@ import javax.ws.rs.core.MediaType;
 
 
 public class RestfulService {
-		
-	private static String access_token = "2215670960.579ed75.10f5b84696fb4bc5b09eaafaabcd19e8";
+
+	private static String access_token = "${token}";
 	private static String url_instagram_srch_user = "https://api.instagram.com/v1/users/search?q=";	
 	private static String url_instagram_media_url_p1 = "https://api.instagram.com/v1/users/";
 	private static String url_instagram_media_url_p2 = "/media/recent/?access_token=";

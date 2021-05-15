@@ -11,7 +11,7 @@
  * In the second tab of the application user can provided latitude and longitude coordinates to retrieve 
  * the images from Instagram API. 
  * 
- * @author venkata subba rao cheedella, Cletan Sequeira
+ * @author rappala
  * 
  */
 
@@ -50,7 +50,6 @@ import com.vaadin.ui.Button.ClickListener;
 
 @SuppressWarnings("serial")
 @Theme("instagrampics1")
-
 public class Instagrampics1UI extends UI {	
 
 	private List<String> registered_users = new ArrayList<>();	

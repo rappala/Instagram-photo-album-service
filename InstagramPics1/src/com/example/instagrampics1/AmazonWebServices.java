@@ -2,7 +2,7 @@
  * Java interface to make handshakes and download/upload data
  * to Amazon Web Services
  * 
- * @author venkata subba rao cheedella, Cletan Sequeira
+ * @author rappala
  */
 
 
